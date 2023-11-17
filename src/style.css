@@ -1,0 +1,12 @@
+.clicker-app {
+    max-width: 900px;
+    margin: auto;
+    padding: 20px;
+    border: 2px solid #ffffff;
+  }
+  
+  p {
+    font-size: 16px;
+    margin: 10px 0;
+  }
+  
